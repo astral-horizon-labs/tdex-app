@@ -1,3 +1,15 @@
+# tdex-app (fork)
+
+Upstream: [tdex-network/tdex-app](https://github.com/tdex-network/tdex-app) — the mobile
+trading app for TDEX, the decentralised exchange protocol on Liquid.
+
+My work on it lives upstream: 248 merged pull requests.
+→ https://github.com/tdex-network/tdex-app/pulls?q=author%3Aastral-horizon-labs
+
+Trade flows, order discovery across liquidity providers, the peg-in screens and the
+102-confirmation rule, UTXO handling after trades.
+
+
 # tdex-app
 
 📱 Mobile app for making trades on TDEX
